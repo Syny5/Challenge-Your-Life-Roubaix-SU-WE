@@ -1,0 +1,28 @@
+#victorBig{
+  border-radius: 20%;
+}
+
+#QuestionnaireBtn{
+  width : 96.3%;
+  font-weight: bold;
+  height: 50px;
+}
+
+.categoriesbtn{
+  height : 80px;
+  width : 30%;
+  font-weight: bold;
+  color: white;
+}
+
+#textProgBar{
+  font-size: 11px;
+  font-style: italic;
+  margin-bottom: 1px;
+  color: grey;
+  text-align: center;
+}
+
+body{
+  background-color: #FDF1B8;
+}
