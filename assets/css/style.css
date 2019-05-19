@@ -6,12 +6,16 @@
   width : 96.3%;
   font-weight: bold;
   height: 50px;
+  border : solid black 1px;
 }
 
 .categoriesbtn{
   height : 80px;
-  /* width : 10%; */
+  width : 30%;
   font-weight: bold;
+  color: white;
+}
+.categoriesbtn:hover{
   color: white;
 }
 
