@@ -1,5 +1,6 @@
 #victorBig{
   border-radius: 20%;
+  box-shadow: 4px 8px 20px;
 }
 
 #QuestionnaireBtn{
@@ -19,12 +20,21 @@
   color: white;
 }
 
-#textProgBar{
-  font-size: 11px;
+.textProgBar{
+  font-size: 12px;
   font-style: italic;
   margin-bottom: 1px;
-  color: grey;
+  color: #9E9E9E;
   text-align: center;
+}
+
+.textLevel{
+  font-size: 16px;
+  font-style: italic;
+  margin-bottom: 1px;
+  color: #7a7777;
+  text-align: center;
+  font-weight: bold;
 }
 
 body{
@@ -52,4 +62,14 @@ body{
   float: right;
   color: #aaa;
   font-style: italic;
+}
+
+#profession{
+  font-size: 14px;
+  font-style: italic;
+}
+
+#nameFirstName{
+  font-weight: bold;
+  font-size: 20px;
 }
